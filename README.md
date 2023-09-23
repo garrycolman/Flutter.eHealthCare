@@ -7,7 +7,10 @@ Welcome to eHealthcare, a comprehensive Flutter-based mobile application dedicat
 
 
 # Youtube Video associated with my working
-### https://youtu.be/7Qfoj_9lV90
+## https://youtu.be/7Qfoj_9lV90
+
+[![Watch the video on YouTube](https://img.youtube.com/vi/7Qfoj_9lV90/maxresdefault.jpg)](https://youtu.be/7Qfoj_9lV90)
+
 
 
 ![Screenshot_37](https://github.com/stuartgregorysharpe/eHealthCare.MobileApp.using.Flutter/assets/137684294/b16b5c55-02b1-4e41-b833-7e7f5e31da9e)
